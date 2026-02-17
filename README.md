@@ -6,7 +6,7 @@ I am a second-year student in the preparatory cycle at **ESIEE Paris**, aspiring
 I am currently seeking a **36-month apprenticeship** in **Software Engineering**, starting September 2026(Mid october at the company). I am particularly interested in:
 * **DevOps & Web Development**
 * **Low-level Programming**
-* **System Architecture**
+* **Scraping-Automation-Pipelines**
 
 🔗 **Explore my Portfolio:** [daemoniax.github.io/Portfolio-React](https://daemoniax.github.io/Portfolio-React)  
 🎓 **Program Details:** [ESIEE Computer Science & Applications](https://www.esiee.fr/formations/ingenieur-par-apprentissage/informatique-et-applications)
