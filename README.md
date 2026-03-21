@@ -15,9 +15,9 @@ I am currently seeking a **36-month apprenticeship** in **Software Engineering**
 
 ### 🛠️ What you'll find here
 This GitHub profile is a reflection of my learning journey. You will find projects covering:
-* **Game Development:** Unity & C# projects.
+* **Game Development:** Unity C# & Java projects.
 * **Fullstack Web:** Frontend and Backend implementations.
-* **CI/CD:** Automation and pipelines.
+* **CI/CD:** Scripting-Automation
 
 > **Note on my process:** I chose to keep my repositories in their original state to showcase my technical evolution, my historical changes, and the maturation of my development mindset over time.
 
